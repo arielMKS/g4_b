@@ -1,0 +1,19 @@
+
+.CustomerForm .myCard {
+    border: 1px solid #61dafb;
+    width: 100%;
+    padding: .5em;
+}
+
+.CustomerForm .marginZeroAuto {
+    margin: 0 auto;
+}
+
+.CustomerForm .myRow {
+    text-align: center !important;
+}
+
+.CustomerForm .myBtn {
+    width: 100% !important;
+    margin: 0.25em;
+}
